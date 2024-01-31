@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "yellow-limit-114",
-  url: "https://yellow-limit-114.botics.co",
-  api: "https://yellow-limit-114.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "yellow-limit-114",
+  "url": "https://yellow-limit-114.botics.co",
+  "api": "https://yellow-limit-114.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "welcome"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
